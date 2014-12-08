@@ -1,1 +1,3 @@
-On demand docker containers for code sharing.
+On demand VMs for collaboration.
+
+- Provision a dev machine in minutes
